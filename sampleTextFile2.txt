@@ -1,3 +1,5 @@
 This is a sample text file, text is okay. This is my new goals.
 some new code changes updates
 changes to the code master
+some new code changes updates. 
+New code changes.
